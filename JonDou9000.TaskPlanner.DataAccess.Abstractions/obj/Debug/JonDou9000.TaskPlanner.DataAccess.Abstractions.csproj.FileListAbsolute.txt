@@ -1,0 +1,18 @@
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\bin\Debug\JonDou9000.TaskPlanner.DataAccess.Abstractions.dll
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\bin\Debug\JonDou9000.TaskPlanner.DataAccess.Abstractions.pdb
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.dll
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.pdb
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\obj\Debug\JonDou9000.TaskPlanner.DataAccess.Abstractions.csproj.AssemblyReference.cache
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\obj\Debug\JonDou9000.TaskPlanner.DataAccess.Abstractions.csproj.CoreCompileInputs.cache
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\obj\Debug\JonDou9000.TaskPlanner.DataAccess.Abstractions.csproj.CopyComplete
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\obj\Debug\JonDou9000.TaskPlanner.DataAccess.Abstractions.dll
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\obj\Debug\JonDou9000.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.DataAccess.Abstractions\bin\Debug\JonDou9000.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.DataAccess.Abstractions\bin\Debug\JonDou9000.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.DataAccess.Abstractions\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.dll
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.DataAccess.Abstractions\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.pdb
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.DataAccess.Abstractions\obj\Debug\JonDou9000.TaskPlanner.DataAccess.Abstractions.csproj.AssemblyReference.cache
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.DataAccess.Abstractions\obj\Debug\JonDou9000.TaskPlanner.DataAccess.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.DataAccess.Abstractions\obj\Debug\JonDou9000.TaskPlanner.DataAccess.Abstractions.csproj.CopyComplete
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.DataAccess.Abstractions\obj\Debug\JonDou9000.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.DataAccess.Abstractions\obj\Debug\JonDou9000.TaskPlanner.DataAccess.Abstractions.pdb
