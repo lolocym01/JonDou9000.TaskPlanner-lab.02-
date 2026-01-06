@@ -1,0 +1,36 @@
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\JonDou9000.TaskPlanner.ConsoleRunner.csproj.AssemblyReference.cache
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\JonDou9000.TaskPlanner.ConsoleRunner.csproj.CoreCompileInputs.cache
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.ConsoleRunner.exe.config
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.ConsoleRunner.exe
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.ConsoleRunner.pdb
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.Domain.Logic.dll
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.dll
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.Domain.Logic.pdb
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.pdb
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\JonDou9000.TaskPlanner.ConsoleRunner.csproj.CopyComplete
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\JonDou9000.TaskPlanner.ConsoleRunner.exe
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\JonDou9000.TaskPlanner.ConsoleRunner.pdb
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.DataAccess.Abstractions.dll
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.DataAccess.dll
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\Newtonsoft.Json.dll
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.DataAccess.Abstractions.pdb
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.DataAccess.pdb
+E:\Навчання\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.ConsoleRunner.exe.config
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.ConsoleRunner.exe
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.ConsoleRunner.pdb
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.DataAccess.dll
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.Domain.Logic.dll
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.dll
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.DataAccess.pdb
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.Domain.Logic.pdb
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.pdb
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\JonDou9000.TaskPlanner.ConsoleRunner.csproj.AssemblyReference.cache
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\JonDou9000.TaskPlanner.ConsoleRunner.csproj.CoreCompileInputs.cache
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\JonDou9000.TaskPlanner.ConsoleRunner.csproj.CopyComplete
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\JonDou9000.TaskPlanner.ConsoleRunner.exe
+C:\Users\Maxon\Desktop\Унік\3 курс\.NET\JonDou9000.TaskPlanner (lab.02-04)\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\JonDou9000.TaskPlanner.ConsoleRunner.pdb
